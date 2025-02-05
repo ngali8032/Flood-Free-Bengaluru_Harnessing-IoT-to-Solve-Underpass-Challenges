@@ -1,6 +1,6 @@
 <H1> TITLE: Flood-Free Bengaluru: Harnessing IoT to Solve Underpass flodding Challenges
 
-Urban flooding in underpasses poses significant risks to public safety, traffic flow, and infrastructure in Bengaluru. This project presents an IoT-based solution for real-time flood monitoring, automated drainage, and intelligent traffic management to mitigate these challenges effectively.
+<H3> Urban flooding in underpasses poses significant risks to public safety, traffic flow, and infrastructure in Bengaluru. This project presents an IoT-based solution for real-time flood monitoring, automated drainage, and intelligent traffic management to mitigate these challenges effectively.
 
 The system utilizes wireless sensor networks, weather forecasting models, and water level sensors to detect rainfall patterns and predict flood risks in underpasses. An LCD showcases real-time moisture and humidity readings, along with system status updates such as "Water Detected" or "System Normal." 
 
