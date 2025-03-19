@@ -1,5 +1,11 @@
-Floods are among the most destructive natural disasters, causing severe damage to infrastructure, loss of lives, and economic setbacks. Traditional flood monitoring and control systems rely heavily on manual observation and outdated methods, which often result in delayed responses and increased vulnerability. To address these limitations, we implemented an IoT-based Flood Monitoring System that utilizes the ESP8266 Wi-Fi module to provide real-time monitoring, data collection, and automated response mechanisms. 
+<H3>Result</H3>
+Our project provides real-time monitoring of water levels, temperature, and humidity in urban underpasses and low-lying areas.
+We have included an automated drainage system that activates pumps to remove excess water when water levels exceed predefined thresholds
+A user-friendly web server allows the public to access real-time flood data from any device with internet connectivity.
+Our Project is designed to be low-cost and easy to maintain, making it suitable for widespread deployment in urban and rural areas.
 
-The project integrates multiple sensors, including an ultrasonic water level sensor, DHT11 temperature and humidity sensor, and rain sensor, to continuously track water levels, environmental conditions, and rainfall intensity. These sensors are interfaced with an ESP8266 microcontroller, which processes the data and transmits it to a cloud-based web dashboard. This enables real-time visualization and remote access to critical flood data, allowing authorities and individuals to take proactive measures before floodwaters reach hazardous levels.
-
-To enhance situational awareness, the system also includes an OLED display that provides on-site monitoring for local users. Additionally, an automated relay mechanism is implemented to trigger preventive actions, such as activating drainage systems, sounding alarms, or sending SMS/email alerts to concerned stakeholders. By leveraging IoT and wireless communication, the system ensures a faster response time and minimizes the impact of flooding.
+<H3>Impact</H3>
+Enables authorities and the public to track flood conditions in real time, improving preparedness and response.
+Reduces the risk of flooding and minimizes property damage in critical areas.
+Increases community awareness and preparedness by providing timely and accurate flood information.
+Ensures timely warnings to the public and authorities, enabling quick evacuation and response
